@@ -1,0 +1,10 @@
+.button_submit_lg {
+    margin:20px;
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(181, 202, 199);
+    border: none;
+    border-radius: 10px;
+}
