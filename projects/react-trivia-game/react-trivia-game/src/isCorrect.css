@@ -1,0 +1,22 @@
+.isCorrect_box {
+ width: 480px;
+ margin: 20px auto;
+ padding: 40px;
+}
+
+.isCorrect_box_display {
+    display: block; 
+}
+
+.isCorrect_box_hide {
+    display: none; 
+}
+
+.isCorrect_box_correct {
+    background-color:rgb(181, 207, 181);
+}
+
+.isCorrect_box_incorrect {
+    background-color:rgb(228, 171, 171);
+}
+

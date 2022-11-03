@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0000",
+        "question": "What is 7 + 7?",
+        "correctAnswer": 14,
+        "incorrectAnswers": [3, 8, 7]
+    },
+    {
+        "id": "0001",
+        "question": "What color do you get when you mix blue and red?",
+        "correctAnswer": "purple",
+        "incorrectAnswers": ["orange", "teal", "green"]
+    },
+    {
+        "id": "0002",
+        "question": "Area 51 is located in which US state?",
+        "correctAnswer": "Nevada",
+        "incorrectAnswers": ["Alaska", "Hawaii", "North Carolina"]
+    },
+    {
+        "id": "0003",
+        "question": "How many stripes are on the US flag?",
+        "correctAnswer": "13",
+        "incorrectAnswers": ["50", "12", "10"]
+    },
+    {
+        "id": "0004",
+        "question": "How many sides does a pentadecagon have?",
+        "correctAnswer": "15",
+        "incorrectAnswers": ["50", "5", "12"]
+    }
+]
